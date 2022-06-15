@@ -8,4 +8,4 @@ Token based authentication is used, so it is not possible for a user to see mess
 
 The frontend code for this application is found [here](https://github.com/StereoWonderland/chat-ui).
 
-A working demonstration of this app can be found [here](ec2-18-130-114-156.eu-west-2.compute.amazonaws.com).
+A working demonstration of this app can be found [here](http://ec2-18-130-114-156.eu-west-2.compute.amazonaws.com).
